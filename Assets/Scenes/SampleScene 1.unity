@@ -194,7 +194,7 @@ TilemapRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 66
+  m_SortingOrder: 6
   m_ChunkSize: {x: 32, y: 32, z: 32}
   m_ChunkCullingBounds: {x: 0.00028640032, y: 0, z: 0}
   m_MaxChunkCount: 16
@@ -3585,6 +3585,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   moveSpeed: 5
   rb: {fileID: 503941551}
+  animator: {fileID: 503941554}
 --- !u!50 &503941551
 Rigidbody2D:
   serializedVersion: 4
