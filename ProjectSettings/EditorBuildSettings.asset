@@ -6,6 +6,15 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 6cfedd93f4e41064595af605e437d479
+  - enabled: 1
+    path: Assets/Scenes/Victor.unity
+    guid: 274e94f63614a40a69808fc3b7dabc08
+  - enabled: 1
     path: Assets/Scenes/Brian.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Alexanders floor.unity
+    guid: 1dd1c7e2630ae4a1cb1810e93aec95a6
   m_configObjects: {}
