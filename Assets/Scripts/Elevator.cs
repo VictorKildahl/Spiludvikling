@@ -14,6 +14,7 @@ public class Elevator : Collectable
             opened = true;
             GetComponent<SpriteRenderer>().sprite = openedElevator;
             Debug.Log("Elevator Opened");
+            GameManager.instance.SaveState();
 
             StartCoroutine(Wait(2.5f));
         }

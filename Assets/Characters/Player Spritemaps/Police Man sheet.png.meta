@@ -1,0 +1,1080 @@
+fileFormatVersion: 2
+guid: b9633a3db044b48cebd96fcd4c9b1a7b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4349929786993651390
+    second: Police Man sheet_0
+  - first:
+      213: -3002954203658593900
+    second: Police Man sheet_1
+  - first:
+      213: 2557848527722536628
+    second: Police Man sheet_2
+  - first:
+      213: -524944402081140269
+    second: Police Man sheet_3
+  - first:
+      213: -5785083619802964492
+    second: Police Man sheet_4
+  - first:
+      213: 8612909736737152596
+    second: Police Man sheet_5
+  - first:
+      213: 8501625372122974415
+    second: Police Man sheet_6
+  - first:
+      213: -1983694548743645284
+    second: Police Man sheet_7
+  - first:
+      213: -6861140488040735479
+    second: Police Man sheet_8
+  - first:
+      213: -6473603232641989422
+    second: Police Man sheet_9
+  - first:
+      213: 2377859226971642295
+    second: Police Man sheet_10
+  - first:
+      213: -5529180025386893415
+    second: Police Man sheet_11
+  - first:
+      213: -4834607087214634198
+    second: Police Man sheet_12
+  - first:
+      213: 452030416373959860
+    second: Police Man sheet_13
+  - first:
+      213: -1015195878883765238
+    second: Police Man sheet_14
+  - first:
+      213: 1167886111250761906
+    second: Police Man sheet_15
+  - first:
+      213: 7483844735391171347
+    second: Police Man sheet_16
+  - first:
+      213: 1277995625921175175
+    second: Police Man sheet_17
+  - first:
+      213: 918499959145103602
+    second: Police Man sheet_18
+  - first:
+      213: 3102299824080614141
+    second: Police Man sheet_19
+  - first:
+      213: 6707433941792801316
+    second: Police Man sheet_20
+  - first:
+      213: -1100521449178247289
+    second: Police Man sheet_21
+  - first:
+      213: -2356596999979822582
+    second: Police Man sheet_22
+  - first:
+      213: -5728551413196178781
+    second: Police Man sheet_23
+  - first:
+      213: -1651652296597898814
+    second: Police Man sheet_24
+  - first:
+      213: 5047545867600425852
+    second: Police Man sheet_25
+  - first:
+      213: -268000966023581257
+    second: Police Man sheet_26
+  - first:
+      213: 2017973307899496789
+    second: Police Man sheet_27
+  - first:
+      213: -9219228686407044056
+    second: Police Man sheet_28
+  - first:
+      213: 12471594503502071
+    second: Police Man sheet_29
+  - first:
+      213: 2379499002585184860
+    second: Police Man sheet_30
+  - first:
+      213: 1671605823045315529
+    second: Police Man sheet_31
+  - first:
+      213: 4499422070585480686
+    second: Police Man sheet_32
+  - first:
+      213: -4484806117398974263
+    second: Police Man sheet_33
+  - first:
+      213: -2817990182193446508
+    second: Police Man sheet_34
+  - first:
+      213: 2271870474375174681
+    second: Police Man sheet_35
+  - first:
+      213: -2483038935495208843
+    second: Police Man sheet_36
+  - first:
+      213: -6259839392757950058
+    second: Police Man sheet_37
+  - first:
+      213: 3129088277587835617
+    second: Police Man sheet_38
+  - first:
+      213: -2086342365822347509
+    second: Police Man sheet_39
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Police Man sheet_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 577
+        width: 37
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebea5a7281e0e5c30800000000000000
+      internalID: 4349929786993651390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Police Man sheet_1
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 577
+        width: 44
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 499d926ef0d5356d0800000000000000
+      internalID: -3002954203658593900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Police Man sheet_2
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 577
+        width: 44
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be58241fad4f7320800000000000000
+      internalID: 2557848527722536628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Police Man sheet_3
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 577
+        width: 37
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d1bf1bf8d507b8f0800000000000000
+      internalID: -524944402081140269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Police Man sheet_4
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 513
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd96b5391147bfa0800000000000000
+      internalID: -5785083619802964492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Police Man sheet_5
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 512
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e98bcb5c3378770800000000000000
+      internalID: 8612909736737152596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Police Man sheet_6
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 512
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc886de7b37dbf570800000000000000
+      internalID: 8501625372122974415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Police Man sheet_7
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 513
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c97914761508874e0800000000000000
+      internalID: -1983694548743645284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Police Man sheet_8
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 449
+        width: 37
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d1848f31558c0a0800000000000000
+      internalID: -6861140488040735479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Police Man sheet_9
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 449
+        width: 37
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d4cd8598242926a0800000000000000
+      internalID: -6473603232641989422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Police Man sheet_10
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 232
+        width: 176
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b997855e5adff020800000000000000
+      internalID: 2377859226971642295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Police Man sheet_11
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 385
+        width: 38
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ff0afcf086443b0800000000000000
+      internalID: -5529180025386893415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Police Man sheet_12
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 384
+        width: 43
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b5cf1187608ecb0800000000000000
+      internalID: -4834607087214634198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Police Man sheet_13
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 384
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc44abc44fe54600800000000000000
+      internalID: 452030416373959860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Police Man sheet_14
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 385
+        width: 38
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0451b51abc49e1f0800000000000000
+      internalID: -1015195878883765238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Police Man sheet_15
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 257
+        width: 38
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b8c63ffa3a253010800000000000000
+      internalID: 1167886111250761906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Police Man sheet_16
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 257
+        width: 44
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3130b2fb225fbd760800000000000000
+      internalID: 7483844735391171347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Police Man sheet_17
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 257
+        width: 44
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ed88b204a5cb110800000000000000
+      internalID: 1277995625921175175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Police Man sheet_18
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 257
+        width: 38
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f00e0fa8da2fbc00800000000000000
+      internalID: 918499959145103602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Police Man sheet_19
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 193
+        width: 38
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df2f419d0459d0b20800000000000000
+      internalID: 3102299824080614141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Police Man sheet_20
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 193
+        width: 44
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42245fee1a7951d50800000000000000
+      internalID: 6707433941792801316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Police Man sheet_21
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 193
+        width: 44
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f4802a2992ab0f0800000000000000
+      internalID: -1100521449178247289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Police Man sheet_22
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 193
+        width: 38
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a029379a38fab4fd0800000000000000
+      internalID: -2356596999979822582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Police Man sheet_23
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 129
+        width: 38
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa31e247d81080b0800000000000000
+      internalID: -5728551413196178781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Police Man sheet_24
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 129
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9f2d0bcf62419e0800000000000000
+      internalID: -1651652296597898814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Police Man sheet_25
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 129
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7370d9393c7c0640800000000000000
+      internalID: 5047545867600425852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Police Man sheet_26
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 129
+        width: 38
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b1f3b49a8ed74cf0800000000000000
+      internalID: -268000966023581257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Police Man sheet_27
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 65
+        width: 38
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559c1972808410c10800000000000000
+      internalID: 2017973307899496789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Police Man sheet_28
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 65
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 824fd93fa58be0080800000000000000
+      internalID: -9219228686407044056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Police Man sheet_29
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 65
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f8f92069de4c2000800000000000000
+      internalID: 12471594503502071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Police Man sheet_30
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 65
+        width: 38
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5a7c785cbda50120800000000000000
+      internalID: 2379499002585184860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Police Man sheet_31
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 52
+        width: 72
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb2717b3acb23710800000000000000
+      internalID: 1671605823045315529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Police Man sheet_32
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 54
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee5dcc3c888217e30800000000000000
+      internalID: 4499422070585480686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Police Man sheet_33
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 38
+        width: 43
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c07fe50994c2c1c0800000000000000
+      internalID: -4484806117398974263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Police Man sheet_34
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 23
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49142d11cdc74e8d0800000000000000
+      internalID: -2817990182193446508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Police Man sheet_35
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 23
+        width: 44
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a94d8d82e478f10800000000000000
+      internalID: 2271870474375174681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Police Man sheet_36
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 23
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 570185e6e397a8dd0800000000000000
+      internalID: -2483038935495208843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Police Man sheet_37
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 24
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6995aa30d359029a0800000000000000
+      internalID: -6259839392757950058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Police Man sheet_38
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 449
+        width: 44
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea3678b531cc6b20800000000000000
+      internalID: 3129088277587835617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Police Man sheet_39
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 449
+        width: 44
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b079f451ca2db03e0800000000000000
+      internalID: -2086342365822347509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1125 @@
+fileFormatVersion: 2
+guid: fa9ca2d5ab14543459ea4d82f07c5324
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7329630413037246319
+    second: Woman sheet_0
+  - first:
+      213: -1877414170691795353
+    second: Woman sheet_1
+  - first:
+      213: -5082500183374906118
+    second: Woman sheet_2
+  - first:
+      213: 1170770875692417378
+    second: Woman sheet_3
+  - first:
+      213: 1392545388571299537
+    second: Woman sheet_4
+  - first:
+      213: -5362704945794193984
+    second: Woman sheet_5
+  - first:
+      213: -1894815865971252638
+    second: Woman sheet_6
+  - first:
+      213: 771733966647012765
+    second: Woman sheet_7
+  - first:
+      213: 7603136138056409342
+    second: Woman sheet_8
+  - first:
+      213: 1447972813172048904
+    second: Woman sheet_9
+  - first:
+      213: 4042858075361228098
+    second: Woman sheet_10
+  - first:
+      213: -2379596578368040243
+    second: Woman sheet_11
+  - first:
+      213: 1992016308287583754
+    second: Woman sheet_12
+  - first:
+      213: 2134363394629652872
+    second: Woman sheet_13
+  - first:
+      213: -1571319058210335227
+    second: Woman sheet_14
+  - first:
+      213: 3240527000773385058
+    second: Woman sheet_15
+  - first:
+      213: -219295667634975482
+    second: Woman sheet_16
+  - first:
+      213: 6029324994926611113
+    second: Woman sheet_17
+  - first:
+      213: -1025861168406408550
+    second: Woman sheet_18
+  - first:
+      213: 1090262433319869201
+    second: Woman sheet_19
+  - first:
+      213: 1218734400088398212
+    second: Woman sheet_20
+  - first:
+      213: -9123296597226065291
+    second: Woman sheet_21
+  - first:
+      213: -8255897554500729063
+    second: Woman sheet_22
+  - first:
+      213: 5302695747852052891
+    second: Woman sheet_23
+  - first:
+      213: -2057632914340286033
+    second: Woman sheet_24
+  - first:
+      213: -2351931755586860218
+    second: Woman sheet_25
+  - first:
+      213: -3997129738819044288
+    second: Woman sheet_26
+  - first:
+      213: -7661728487570841515
+    second: Woman sheet_27
+  - first:
+      213: 2713987409856021842
+    second: Woman sheet_28
+  - first:
+      213: 1852088928217272478
+    second: Woman sheet_29
+  - first:
+      213: 4344419927612032785
+    second: Woman sheet_30
+  - first:
+      213: 7586037595438486659
+    second: Woman sheet_31
+  - first:
+      213: -2992269666296479950
+    second: Woman sheet_32
+  - first:
+      213: -5561525584674219725
+    second: Woman sheet_33
+  - first:
+      213: -2998803568089802609
+    second: Woman sheet_34
+  - first:
+      213: 8329399810069984477
+    second: Woman sheet_35
+  - first:
+      213: 7040957607515267733
+    second: Woman sheet_36
+  - first:
+      213: -6011939057804266216
+    second: Woman sheet_37
+  - first:
+      213: 7458193917653549346
+    second: Woman sheet_38
+  - first:
+      213: 200034771387653422
+    second: Woman sheet_39
+  - first:
+      213: -3720119878687479605
+    second: Woman sheet_40
+  - first:
+      213: 5875492239321656494
+    second: Woman sheet_41
+  - first:
+      213: -1373494163779314154
+    second: Woman sheet_42
+  - first:
+      213: 5646906513402402795
+    second: Woman sheet_43
+  - first:
+      213: -4455683663820324726
+    second: Woman sheet_44
+  - first:
+      213: 4463170500461648243
+    second: Woman sheet_45
+  - first:
+      213: -6676983527360752539
+    second: Woman sheet_46
+  - first:
+      213: 5659551108686890151
+    second: Woman sheet_47
+  - first:
+      213: 1996725389779458969
+    second: Woman sheet_48
+  - first:
+      213: -4676214179290683180
+    second: Woman sheet_49
+  - first:
+      213: -2292500169008786223
+    second: Woman sheet_50
+  - first:
+      213: -6742404222775556016
+    second: Woman sheet_51
+  - first:
+      213: 5212216060005988994
+    second: Woman sheet_52
+  - first:
+      213: 538691374250975667
+    second: Woman sheet_53
+  - first:
+      213: 537431649969813575
+    second: Woman sheet_54
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Woman sheet_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 578
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f671cffc60418b560800000000000000
+      internalID: 7329630413037246319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman sheet_1
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 577
+        width: 37
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76681ab32c512f5e0800000000000000
+      internalID: -1877414170691795353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman sheet_2
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 577
+        width: 37
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afcb41fe2055779b0800000000000000
+      internalID: -5082500183374906118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman sheet_3
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 578
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 261050f88e96f3010800000000000000
+      internalID: 1170770875692417378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman sheet_4
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 514
+        width: 32
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de866327a0535310800000000000000
+      internalID: 1392545388571299537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman sheet_5
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 512
+        width: 39
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5e4beb348d395b0800000000000000
+      internalID: -5362704945794193984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman sheet_6
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 512
+        width: 38
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2626202520344b5e0800000000000000
+      internalID: -1894815865971252638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman sheet_7
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 514
+        width: 32
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9d291f24ffb5ba00800000000000000
+      internalID: 771733966647012765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman sheet_8
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 450
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef0a9cfc804c38960800000000000000
+      internalID: 7603136138056409342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman sheet_9
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 450
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8040b851a9b381410800000000000000
+      internalID: 1447972813172048904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman sheet_10
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 232
+        width: 148
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 245b933effd1b1830800000000000000
+      internalID: 4042858075361228098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman sheet_11
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 387
+        width: 33
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc253a50589f9fed0800000000000000
+      internalID: -2379596578368040243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman sheet_12
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 384
+        width: 39
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06344a374015ab10800000000000000
+      internalID: 1992016308287583754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman sheet_13
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 384
+        width: 39
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8815f76f238ce9d10800000000000000
+      internalID: 2134363394629652872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman sheet_14
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 387
+        width: 33
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506529a44ad813ae0800000000000000
+      internalID: -1571319058210335227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman sheet_15
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 258
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26bd82e532aa8fc20800000000000000
+      internalID: 3240527000773385058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman sheet_16
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 257
+        width: 37
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60dc5dd80c7e4fcf0800000000000000
+      internalID: -219295667634975482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman sheet_17
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 257
+        width: 37
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa0cfd53277ca350800000000000000
+      internalID: 6029324994926611113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman sheet_18
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 258
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a92d44cd3b863c1f0800000000000000
+      internalID: -1025861168406408550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman sheet_19
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 194
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11bdbf918e3612f00800000000000000
+      internalID: 1090262433319869201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman sheet_20
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 193
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48951d0da70d9e010800000000000000
+      internalID: 1218734400088398212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman sheet_21
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 193
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5727fc5051a836180800000000000000
+      internalID: -9123296597226065291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman sheet_22
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 194
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 917c7f17ae82d6d80800000000000000
+      internalID: -8255897554500729063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman sheet_23
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 130
+        width: 32
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9922b210b5f69940800000000000000
+      internalID: 5302695747852052891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman sheet_24
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 129
+        width: 39
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa1789624c1d173e0800000000000000
+      internalID: -2057632914340286033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman sheet_25
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 129
+        width: 39
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64bc84487824c5fd0800000000000000
+      internalID: -2351931755586860218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman sheet_26
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 130
+        width: 32
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c7a842ea75788c0800000000000000
+      internalID: -3997129738819044288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman sheet_27
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 66
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55069dcb8821ca590800000000000000
+      internalID: -7661728487570841515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman sheet_28
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 65
+        width: 39
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 255c9518b250aa520800000000000000
+      internalID: 2713987409856021842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman sheet_29
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 65
+        width: 39
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9013d24111f3b910800000000000000
+      internalID: 1852088928217272478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman sheet_30
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 66
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 117817c08ea7a4c30800000000000000
+      internalID: 4344419927612032785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman sheet_31
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 52
+        width: 50
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3849ed02005074960800000000000000
+      internalID: 7586037595438486659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman sheet_32
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 54
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23fb83c97925976d0800000000000000
+      internalID: -2992269666296479950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman sheet_33
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 38
+        width: 43
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3391f3c62fd71d2b0800000000000000
+      internalID: -5561525584674219725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman sheet_34
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 23
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8855dc0b0c1266d0800000000000000
+      internalID: -2998803568089802609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman sheet_35
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 23
+        width: 44
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd47d670ff8f79370800000000000000
+      internalID: 8329399810069984477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman sheet_36
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 23
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5922882b3a186b160800000000000000
+      internalID: 7040957607515267733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman sheet_37
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 24
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 815b740974d419ca0800000000000000
+      internalID: -6011939057804266216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman sheet_38
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 448
+        width: 39
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22108b75ad3d08760800000000000000
+      internalID: 7458193917653549346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Woman sheet_39
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 449
+        width: 39
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d9943909aa6c200800000000000000
+      internalID: 200034771387653422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
