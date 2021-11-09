@@ -42,9 +42,9 @@ public class PlayerAim : MonoBehaviour
     {
         if (Input.GetMouseButtonDown(0))
         {
-            Vector3 mousePos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
             aimAnimator.SetTrigger("Throw");
-            onThrow?.Invoke(this,new OnThrowEventArgs()
+            Vector3 mousePos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
+            onThrow?.Invoke(this,new OnThrowEventArgs
             {
                 pencilEndPointPosition = aimPencilEndPointTransform.position,
                 throwPosition = mousePos,
