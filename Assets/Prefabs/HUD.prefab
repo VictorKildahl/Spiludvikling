@@ -1,5 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+<<<<<<< HEAD
 --- !u!1 &555934001236956698
 GameObject:
   m_ObjectHideFlags: 0
@@ -282,6 +283,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   pauseMenu: {fileID: 0}
   gameIsPaused: 0
+=======
+>>>>>>> 527458b730a7b62943c40b045fcb7fd233ae409f
 --- !u!1 &6322797873318510424
 GameObject:
   m_ObjectHideFlags: 0
@@ -676,7 +679,10 @@ RectTransform:
   - {fileID: 6322797874728064009}
   - {fileID: 6322797873318510425}
   - {fileID: 6322797873855659123}
+<<<<<<< HEAD
   - {fileID: 881050522389771276}
+=======
+>>>>>>> 527458b730a7b62943c40b045fcb7fd233ae409f
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -702,7 +708,11 @@ Canvas:
   m_OverrideSorting: 0
   m_OverridePixelPerfect: 0
   m_SortingBucketNormalizedSize: 0
+<<<<<<< HEAD
   m_AdditionalShaderChannelsFlag: 25
+=======
+  m_AdditionalShaderChannelsFlag: 0
+>>>>>>> 527458b730a7b62943c40b045fcb7fd233ae409f
   m_SortingLayerID: 0
   m_SortingOrder: 0
   m_TargetDisplay: 0
