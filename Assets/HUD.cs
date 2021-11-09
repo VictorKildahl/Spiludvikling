@@ -5,20 +5,14 @@ using UnityEngine.UI;
 
 public class HUD : MonoBehaviour
 {
-    private float update;
-
-    void Update()
+    private void Update()
     {
-        update += Time.deltaTime;
-        if (update > 1.0f)
-        {
-            update = 0.0f;
-            UpdateHUD();
-        }
+        UpdateHUD();
     }
 
 
     // Text fields
+    public Text heartText;
     public Text pencilText;
     public Text staplerText;
     public Text scissorText;
@@ -28,6 +22,8 @@ public class HUD : MonoBehaviour
     //Update the HUD information
     public void UpdateHUD()
     {
+        //heartText.text = GameManager.instance.player.hitpoint.ToString();
+        heartText.text = "0";
         pencilText.text = GameManager.instance.pencilAmount.ToString();
         staplerText.text = GameManager.instance.staplerAmount.ToString();
         scissorText.text = GameManager.instance.scissorAmount.ToString();
