@@ -15,6 +15,10 @@ public class PlayerAim : MonoBehaviour
     private Transform aimTransform;
     private Transform aimPencilEndPointTransform;
     private Animator aimAnimator;
+    
+    float fireElapsedTime = 0;
+    public float fireDelay = 0.2f;
+    
     void Start()
     {
         aimTransform = transform.Find("Aim");
@@ -38,10 +42,14 @@ public class PlayerAim : MonoBehaviour
         aimTransform.eulerAngles = new Vector3(0, 0, angle);
     }
 
+    
     private void RangedAttack()
     {
-        if (Input.GetMouseButtonDown(0))
+        fireElapsedTime += Time.deltaTime;
+        
+        if (Input.GetMouseButtonDown(0) && fireElapsedTime >= fireDelay)
         {
+            fireElapsedTime = 0;
             aimAnimator.SetTrigger("Throw");
             Vector3 mousePos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
             onThrow?.Invoke(this,new OnThrowEventArgs
