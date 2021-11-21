@@ -10,7 +10,6 @@ public class HUD : MonoBehaviour
         UpdateHUD();
     }
 
-
     // Text fields
     public Text heartText;
     public Text pencilText;
@@ -22,8 +21,7 @@ public class HUD : MonoBehaviour
     //Update the HUD information
     public void UpdateHUD()
     {
-        //heartText.text = GameManager.instance.player.hitpoint.ToString();
-        heartText.text = "0";
+        heartText.text = "1"; //GameManager.instance.player.hitpoint.ToString();
         pencilText.text = GameManager.instance.pencilAmount.ToString();
         staplerText.text = GameManager.instance.staplerAmount.ToString();
         scissorText.text = GameManager.instance.scissorAmount.ToString();

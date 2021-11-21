@@ -14,7 +14,7 @@ public class Scissor : Collectable
             collected = true;
             GetComponent<SpriteRenderer>().sprite = scissorPickedUp;
             GetComponent<BoxCollider2D>().enabled = false;
-            GameManager.instance.ShowText("Scissor!", 20, Color.yellow, transform.position, Vector3.up * 25, 1.5f);
+            GameManager.instance.ShowText("Scissor!", 50, Color.yellow, transform.position, Vector3.up * 25, 1.5f);
             GameManager.instance.scissorAmount += scissorAmount;
 
             GameManager.instance.SaveState();

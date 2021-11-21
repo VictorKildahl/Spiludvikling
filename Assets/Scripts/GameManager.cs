@@ -9,10 +9,10 @@ public class GameManager : MonoBehaviour
 
     private void Awake()
     {
-        if (GameManager.instance != null) {
-            Destroy(gameObject);
-            return;
-        }
+        //if (GameManager.instance != null) {
+        //    Destroy(gameObject);
+        //    return;
+        //}
 
         //Uncomment this line of code if you wanna restart state.
         //PlayerPrefs.DeleteAll();

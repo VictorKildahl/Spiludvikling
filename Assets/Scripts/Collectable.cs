@@ -11,7 +11,7 @@ public class Collectable : Collidable_tilemap
 
     protected override void OnCollide(Collider2D coll)
     {
-        if (coll.name == "Player")
+        if (coll.name == "Player" || coll.name == "Weapon")
         {
             OpenElevator();
             OnCollect();
