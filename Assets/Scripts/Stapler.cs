@@ -14,7 +14,7 @@ public class Stapler : Collectable
             collected = true;
             GetComponent<SpriteRenderer>().sprite = staplerPickedUp;
             GetComponent<BoxCollider2D>().enabled = false;
-            GameManager.instance.ShowText("Stapler!", 20, Color.yellow, transform.position, Vector3.up * 25, 1.5f);
+            GameManager.instance.ShowText("Stapler!", 50, Color.yellow, transform.position, Vector3.up * 25, 1.5f);
             GameManager.instance.staplerAmount += staplerAmount;
 
             GameManager.instance.SaveState();

@@ -16,7 +16,7 @@ public class Pencil : Collectable
             collected = true;
             GetComponent<SpriteRenderer>().sprite = pencilPickedUp;
             GetComponent<BoxCollider2D>().enabled = false;
-            GameManager.instance.ShowText("Pencil!", 20, Color.yellow, transform.position, Vector3.up * 25, 1.5f);
+            GameManager.instance.ShowText("Pencil!", 50, Color.yellow, transform.position, Vector3.up * 25, 1.5f);
             GameManager.instance.pencilAmount += pencilAmount;
             //pencilText.text = GameManager.instance.pencilAmount.ToString();
 

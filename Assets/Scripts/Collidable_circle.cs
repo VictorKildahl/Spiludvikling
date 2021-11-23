@@ -34,6 +34,9 @@ public class Collidable_circle : MonoBehaviour
 
     protected virtual void OnCollide(Collider2D coll)
     {
-        Debug.Log(coll.name);
+        if (coll.name == "Boss") {
+            Debug.Log(coll.name);
+        }
+       
     }
 }

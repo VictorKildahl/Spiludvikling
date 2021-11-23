@@ -34,6 +34,6 @@ public class Collidable_tilemap : MonoBehaviour
 
     protected virtual void OnCollide(Collider2D coll)
     {
-        Debug.Log(coll.name);
+        //Debug.Log("Tilemap hit: " + coll.name);
     }
 }
