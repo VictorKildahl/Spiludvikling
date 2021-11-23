@@ -15,7 +15,7 @@ public class Weapon : Collidable_tilemap
 
     //Swing
     private Animator anim;
-    private float cooldown = 0.1f;
+    private float cooldown = 0.3f;
     private float lastSwing;
 
     protected override void Start()
@@ -36,7 +36,6 @@ public class Weapon : Collidable_tilemap
                 Swing();
             }
         }
-
         //flipSprite();
     }
 
@@ -61,7 +60,7 @@ public class Weapon : Collidable_tilemap
 
     private void Swing()
     {
-        Debug.Log("Swing");
+        SoundManager.PlaySound("scissor_swing");
         anim.SetTrigger("Swing");
     }
 
