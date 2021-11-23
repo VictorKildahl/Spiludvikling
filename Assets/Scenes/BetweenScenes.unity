@@ -167,7 +167,7 @@ VideoPlayer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 115344638}
   m_Enabled: 1
-  m_VideoClip: {fileID: 32900000, guid: 0178628e5ed5619479197b73aa3fb4a4, type: 3}
+  m_VideoClip: {fileID: 32900000, guid: d2c65c4055ab54df0a789b2fa467fdca, type: 3}
   m_TargetCameraAlpha: 1
   m_TargetCamera3DLayout: 0
   m_TargetCamera: {fileID: 0}
@@ -311,8 +311,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Great! You killed the boss, now get ready to finish all the noobs on the
-    next floor!!!
+  m_Text: 'After finally defeating the Boss, take the elevator to the floor below
+    to have a "talk" with accounting about equal pay
+
+
+'
 --- !u!222 &835480446
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -670,7 +673,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 00c208460770d8a42a659678c32cbb15, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  delayBeforeLoading: 12
+  delayBeforeLoading: 16
   sceneNameToLoad: 
 --- !u!4 &2045227576
 Transform:
