@@ -9,7 +9,8 @@ public class GameManager : MonoBehaviour
 
     private void Awake()
     {
-        //if (GameManager.instance != null) {
+        //if (GameManager.instance != null)
+        //{
         //    Destroy(gameObject);
         //    return;
         //}
@@ -30,6 +31,8 @@ public class GameManager : MonoBehaviour
     //References
     public Player player;
     public FloatingTextManager floatingTextManager;
+    public RectTransform hitpointBar;
+    public Animator deathMenuAnim;
 
     //Logic
     public int pencilAmount;
@@ -40,6 +43,21 @@ public class GameManager : MonoBehaviour
     public void ShowText(string msg, int fontSize, Color color, Vector3 position, Vector3 motion, float duration)
     {
         floatingTextManager.Show(msg, fontSize, color, position, motion, duration);
+    }
+
+    //Hitpoint bar
+    public void OnHitpointChange()
+    {
+        float ratio = (float)player.hitpoint / (float)player.maxHitpoint;
+        hitpointBar.localScale = new Vector3(1, ratio, 1);
+    }
+
+    //DeathMenu and Respawn
+    public void Respawn()
+    {
+        deathMenuAnim.SetTrigger("Hide");
+        SceneManager.LoadScene("Victor", LoadSceneMode.Single);
+        player.Respawn();
     }
 
     //Save state

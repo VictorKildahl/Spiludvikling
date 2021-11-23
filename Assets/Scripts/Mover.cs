@@ -5,9 +5,15 @@ using UnityEngine;
 public abstract class Mover : Fighter
 {
     protected Vector3 moveDelta;
+    public Animator animator;
 
     protected virtual void UpdateMotor(float moveSpeed, Vector3 movement)
     {
+        //Debug.Log(movement);
+        animator.SetFloat("Horizontal", movement.x);
+        animator.SetFloat("Vertical", movement.y);
+        animator.SetFloat("Speed", movement.sqrMagnitude);
+
         moveDelta = new Vector3(movement.x * moveSpeed, movement.y * moveSpeed, 0);
 
         //    //Flipes sprite
