@@ -7,7 +7,7 @@ public class EndScript : MonoBehaviour
     public void Home()
     {
         //  Time.timeScale = 1; 
-        Time.timeScale = 0f;
+        Time.timeScale = 1f;
         //  SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex - 1);
         //  SceneManager.LoadScene(sceneID);
         SceneManager.LoadScene("Victor", LoadSceneMode.Single);
